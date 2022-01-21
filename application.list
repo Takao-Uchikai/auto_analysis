@@ -1,0 +1,3 @@
+general_application	Libtype	ref	Plan	SettingSheet
+RNA-seq	stranded	hg38	basic	SettingSheet_RNAseq_stranded_basic_hg38.txt
+RNA-seq	stranded	mm10	basic	SettingSheet_RNAseq_stranded_basic_mm10.txt

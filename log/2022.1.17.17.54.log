@@ -1,0 +1,17 @@
+#---------ID
+RH21112603
+#---------Samples
+contorl_1:control_2
+/data/share/project/OsakaUniv_SasakiJ/RH21112603_RNA-seqPoly-A_Strand-specific//rawdata/contorl_1_1.fq.gz
+/data/share/project/OsakaUniv_SasakiJ/RH21112603_RNA-seqPoly-A_Strand-specific//rawdata/control_2_2.fq.gz
+/data/share/project/OsakaUniv_SasakiJ/RH21112603_RNA-seqPoly-A_Strand-specific//rawdata/contorl_1_2.fq.gz
+/data/share/project/OsakaUniv_SasakiJ/RH21112603_RNA-seqPoly-A_Strand-specific//rawdata/control_2_1.fq.gz
+#---------SampleNameTest
+/data/share/project/OsakaUniv_SasakiJ/RH21112603_RNA-seqPoly-A_Strand-specific//rawdata/contorl_1_1.fq.gz	true
+/data/share/project/OsakaUniv_SasakiJ/RH21112603_RNA-seqPoly-A_Strand-specific//rawdata/control_2_2.fq.gz	true
+/data/share/project/OsakaUniv_SasakiJ/RH21112603_RNA-seqPoly-A_Strand-specific//rawdata/contorl_1_2.fq.gz	true
+/data/share/project/OsakaUniv_SasakiJ/RH21112603_RNA-seqPoly-A_Strand-specific//rawdata/control_2_1.fq.gz	true
+#---------SampleCheck
+ALL TRUE
+#--------SettingSheet
+/data/share/sandbox/RD_pipeline/SettingSheets//SettingSheet_RNAseq_stranded_basic_hg38.txt

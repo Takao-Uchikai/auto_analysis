@@ -1,0 +1,21 @@
+ID:RH21112644
+general_application:RNA-seq
+ref: mm10 
+Plan:basic
+Libtype:stranded
+_Specifications_
+1. プロジェクト名 
+マウス単球およびマクロファージサンプルの RNA-seq とデータ解析 
+2. 作業概略 
+method : 真核生物 RNA-seq 
+【データ取得+データ解析】 
+supplied_sample : total RNA 
+species : Mus musculus 
+sample_num : 18 サンプル 
+reference_genome : mm10 
+3. データ取得仕様 
+type : Illumina NovaSeq 6000 取得リード長 : PE150 (150bp×2 paired-end) 
+data_volume : 4 G bases per sample 
+lead_num : 26.7 M reads per sample (13.3M pairs) 
+application : RNA-seq（Poly-A 選択法, Strand-specific） 使用試薬 : NEBNext® Poly(A) mRNA Magnetic Isolation  Module (Cat No. E7490) 
+NEBNext® Ultra™II Directional RNA Library Prep  Kit (Cat No. E7760) 

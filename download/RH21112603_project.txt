@@ -1,0 +1,23 @@
+ID:RH21112603
+general_application:RNA-seq
+ref: hg38 
+Plan:basic
+Libtype:stranded
+_Specifications_
+___1. プロジェクト名___
+RNA-seq データ取得＋基礎解析（データ量 4Gb totalRNA2 サンプル 取得済み fastq2 サンプル） 
+___2. 作業概略 ___
+method : 真核⽣物 RNA-seq【データ取得+データ解 析】 
+supplied_sample : total RNA 
+species : ヒト 
+sample_num : totalRNA 2 サンプル 
+取得済み fastq ファイル 2 サンプル 
+reference_genome : hg38 
+___3. データ取得仕様___
+type : Illumina NovaSeq 6000 
+lead_length : PE150 (150bp×2 paired-end) 
+data_volume : 4 G bases per sample 
+lead_num : 26.7 M reads per sample (13.3M pairs) 
+application : RNA-seq（Poly-A 選択法, Strand-specific） 
+reagents : NEBNext® Poly(A) mRNA Magnetic Isolation Module (Cat No. E7490) 
+NEBNext® Ultra™II Directional RNA Library Prep  Kit (Cat No. E7760) 
